@@ -1,3 +1,4 @@
+this is a small project. Namely an image gallery and created using ReactJs, tailwind css framework, Styled component(CSS in js) and several other libraries. if curious try
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
